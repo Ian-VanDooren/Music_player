@@ -1,0 +1,1 @@
+Music player created with vanilla HTML, CSS and JS following Traversy media tutorial. 
